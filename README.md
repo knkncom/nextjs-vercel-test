@@ -1,3 +1,10 @@
-参照：大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました
+# next-kits
 
-https://qiita.com/thesugar/items/01896c1faa8241e6b1bc
+The playground based on Next.js, and more and more
+
+## how to use
+
+```
+npm install
+npm run dev
+```
